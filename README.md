@@ -17,13 +17,8 @@ Python 3.x installed on your system.
 
 ## Installation
 Clone the repository or download the project files.
-
 Navigate to the project directory.
 
-cd rock-paper-scissors
-Run the main.py file.
-
-python main.py
 ## Gameplay
 Upon running the main.py file, the user will be prompted to choose between rock, paper, scissors, or to exit the game:
 
