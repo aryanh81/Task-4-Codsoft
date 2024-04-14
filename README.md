@@ -17,6 +17,7 @@ Python 3.x installed on your system.
 
 ## Installation
 Clone the repository or download the project files.
+https://github.com/aryanh81/Task-4-Codsoft/blob/main/Rock-paper-Scissors.py
 Navigate to the project directory.
 
 ## Gameplay
